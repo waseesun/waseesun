@@ -110,7 +110,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=wasee-sun&show_icons=true&show=reviews,prs_merged&ring_color=8363E6&line_height=33&count_private=true&theme=tokyonight" alt="wasee-sun's GitHub Stats" hspace="10" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasee-sun&&hide=cmake&line_height=35&theme=onedark" hspace="10" />
   </p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasee-sun&theme=jolly&ring=E626A4&fire=E61D00" hspace="10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasee-sun&theme=jolly" hspace="10" />
 </div>
 
 ---
