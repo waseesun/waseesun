@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="left">🌐 Languages I use:</h3>
+<h3 align="left">🌐 Languages I know:</h3>
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="left">🛠️ Frameworks I use:</h3>
+<h3 align="left">🛠️ Frameworks I specialize in:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="left">🚀 Engines I use:</h3>
+<h3 align="left">🚀 Engines I work with:</h3>
 <p align="left">
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
