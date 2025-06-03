@@ -27,8 +27,11 @@ Here are some ideas to get you started:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+<!--   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a>  -->
+  <a href="https://www.blank.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="shell-script" width="40" height="40"/> 
   </a> 
 </p>
 
@@ -49,7 +52,25 @@ Here are some ideas to get you started:
 
 ---
 
-<h3 align="left">📦 Products I use:</h3>
+<h3 align="left">🚀 Engines I use:</h3>
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+  <a href="https://nginx.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
+  </a> 
+</p>
+
+---
+
+<h3 align="left">📦 Services I use:</h3>
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
@@ -63,8 +84,14 @@ Here are some ideas to get you started:
   <a href="https://www.twilio.com/en-us" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/109142?s=200&v=4" alt="twilio" width="40" height="40"/> 
   </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> 
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/> 
+  </a> 
+  <a href="https://console.cloud.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="40" height="40"/> 
+  </a> 
+  <a href="https://developers.facebook.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=PvvcWRWxRKSR&format=png&color=000000" alt="meta" width="40" height="40"/> 
   </a> 
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
