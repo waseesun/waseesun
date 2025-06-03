@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">🌐 Languages I use:</h3>
 <p align="left">
-  <a href="https://www.blank.org/" target="_blank" rel="noreferrer"> 
+  <a href="#" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> 
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <!--   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>  -->
-  <a href="https://www.blank.org/" target="_blank" rel="noreferrer"> 
+  <a href="#" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="shell-script" width="40" height="40"/> 
   </a> 
 </p>
