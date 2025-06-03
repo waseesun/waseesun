@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 
 ---
 
-#### 📈 My GitHub Stats
+### 📈 My GitHub Stats
 
 <div>
   <p>
