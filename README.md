@@ -32,26 +32,61 @@ Here are some ideas to get you started:
   </a> 
 </p>
 
+---
+
 <h3 align="left">🛠️ Frameworks I use:</h3>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
   </a> 
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> 
   </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
+  </a>
+</p>
+
+---
+
+<h3 align="left">📦 Products I use:</h3>
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+  <a href="https://infisical.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/107880645?s=200&v=4" alt="infisical" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.algolia.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/algolia/algolia-original.svg" alt="algolia" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.twilio.com/en-us" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/109142?s=200&v=4" alt="twilio" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="40" height="40"/> 
   </a> 
 </p>
 
+---
+
 #### 📈 My GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wasee-sun&show_icons=true&line_height=33&count_private=true&theme=tokyonight" alt="wasee-sun's GitHub Stats" />
+<div>
+  <p>
+  <img src="https://github-readme-stats.vercel.app/api?username=wasee-sun&show_icons=true&line_height=33&count_private=true&theme=tokyonight" alt="wasee-sun's GitHub Stats" hspace="10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasee-sun&&hide=cmake&langs_count=4&line_height=35&theme=onedark" hspace="10" />
+  </p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasee-sun&theme=radical" hspace="10" />
+</div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasee-sun&&hide=cmake&langs_count=4&line_height=35&theme=onedark" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wasee-sun&theme=radical" />
+---
 
 <!--
 <h3 align="left">📱 Connect with me on:</h3>
