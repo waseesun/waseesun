@@ -60,6 +60,30 @@ Here are some ideas to get you started:
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/?size=100&id=37o3DqV429ra&format=png&color=105228" alt="django" width="40" height="40"/> 
   </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> 
+  </a>
+</p>
+
+---
+
+<h3 align="left">🏛️ API architectures I can implement:</h3>
+<p align="left">
+  <a href="https://www.ibm.com/docs/en/mfci/7.6.1?topic=apis-rest-api" target="_blank" rel="noreferrer"> 
+    <img src="https://static.vecteezy.com/system/resources/thumbnails/002/012/097/small_2x/rest-api-symbol-representational-state-transfer-emblem-vector.jpg" alt="rest" width="80" height="40"/> 
+  </a> 
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=KRA1PoZgRrca&format=png&color=000000" alt="graphql" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.redhat.com/en/topics/automation/what-is-a-webhook" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=24459&format=png&color=000000" alt="webhook" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/WebSocket_colored_logo.svg/512px-WebSocket_colored_logo.svg.png" alt="websocket" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events" target="_blank" rel="noreferrer"> 
+    <img src="https://velog.velcdn.com/images/ktf1686/post/c72b9495-a217-4673-ad64-9fc1ce58dc9e/image.webp" alt="sse" width="40" height="40"/> 
+  </a>
 </p>
 
 ---
@@ -77,6 +101,9 @@ Here are some ideas to get you started:
   </a> 
   <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> 
+  </a> 
+  <a href="https://valkey.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/164458127?s=280&v=4" alt="valkey" width="40" height="40"/> 
   </a> 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
