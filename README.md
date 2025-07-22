@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h3 align="left">🌐 Languages I know:</h3>
 <p align="left">
   <a href="#" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/> 
+    <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="c" width="45" height="45"/> 
   </a> 
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.icons8.com/?size=100&id=XWesbnSd4AUa&format=png&color=8E3434" alt="rust" width="45" height="45"/> 
