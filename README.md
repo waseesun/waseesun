@@ -163,9 +163,9 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=waseesun&show_icons=true&icon_color=F52961&show=reviews,prs_merged&line_height=33&count_private=true&theme=tokyonight&card_width=495" alt="wasee-sun's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=waseesun&show_icons=true&icon_color=F52961&show=reviews,prs_merged&line_height=33&count_private=true&theme=tokyonight&card_width=495" alt="wasee-sun's GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=waseesun&theme=jolly" /> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=waseesun&theme=jolly" />
 
 ---
 
