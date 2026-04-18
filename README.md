@@ -80,14 +80,16 @@ Here are some ideas to get you started:
     <td><a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/></a></td>
     <td><a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></a></td>
     <td><a href="https://www.vim.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="vim" width="45" height="45"/></a></td>
+    <td><a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/></a></td>
     <td><a href="https://infisical.com/"><img src="https://avatars.githubusercontent.com/u/107880645?s=200&v=4" alt="infisical" width="45" height="45"/></a></td>
     <td><a href="https://www.algolia.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/algolia/algolia-original.svg" alt="algolia" width="45" height="45"/></a></td>
     <td><a href="https://www.twilio.com/en-us"><img src="https://avatars.githubusercontent.com/u/109142?s=200&v=4" alt="twilio" width="45" height="45"/></a></td>
-    <td><a href="https://www.postman.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" width="45" height="45"/></a></td>
     <td><a href="https://console.cloud.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="google cloud" width="45" height="45"/></a></td>
     <td><a href="https://developers.facebook.com/"><img src="https://img.icons8.com/?size=100&id=PvvcWRWxRKSR&format=png&color=000000" alt="meta" width="45" height="45"/></a></td>
     <td><a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/></a></td>
     <td><a href="https://www.cloudflare.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="45" height="45"/></a></td>
+    <td><a href="https://www.tavily.com/"><img src="https://media.licdn.com/dms/image/v2/D4E0BAQEwvSNcyDB9SA/company-logo_200_200/B4EZu9xH2iJUAI-/0/1768415330005/tavily_logo?e=1778112000&v=beta&t=NU_iB0rZgKpFsxPf7wi5gG7zmUsm4oFWJrUBg6PyVPQ" alt="tavily" width="45" height="45"/></a></td>
+    <td><a href="https://groq.com/"><img src="https://media.licdn.com/dms/image/v2/D560BAQHu2B6mxi4DzA/company-logo_200_200/B56ZmD6jUWI0AI-/0/1758854788647/groq_logo?e=1778112000&v=beta&t=jj8NOFR24p8zNhtaeXG2x6i6Fe4wVOLehDMpew-QOko" alt="groq" width="45" height="45"/></a></td>
   </tr>
 </table>
 
