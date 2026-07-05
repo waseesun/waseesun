@@ -27,8 +27,11 @@ Here are some ideas to get you started:
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/> 
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img align="left" src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" alt="typescript" width="45" height="45"/> 
   </a> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> 
@@ -64,6 +67,9 @@ Here are some ideas to get you started:
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
     <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="45" height="45"/> 
+  </a>
+  <a href="https://expressjs.com/en/" target="_blank" rel="noreferrer"> 
+    <img align="left" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=008055" alt="expressjs" width="45" height="45"/> 
   </a>
 </p>
 
@@ -168,10 +174,10 @@ Here are some ideas to get you started:
     <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="45" height="45"/> 
   </a> 
   <a href="https://www.tavily.com/">
-    <img align="left" src="https://media.licdn.com/dms/image/v2/D4E0BAQEwvSNcyDB9SA/company-logo_200_200/B4EZu9xH2iJUAI-/0/1768415330005/tavily_logo?e=1778112000&v=beta&t=NU_iB0rZgKpFsxPf7wi5gG7zmUsm4oFWJrUBg6PyVPQ" alt="tavily" width="45" height="45"/>
+    <img align="left" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/tavily-color.png" alt="tavily" width="45" height="45"/>
   </a>
   <a href="https://groq.com/">
-    <img align="left" src="https://media.licdn.com/dms/image/v2/D560BAQHu2B6mxi4DzA/company-logo_200_200/B56ZmD6jUWI0AI-/0/1758854788647/groq_logo?e=1778112000&v=beta&t=jj8NOFR24p8zNhtaeXG2x6i6Fe4wVOLehDMpew-QOko" alt="groq" width="45" height="45"/>
+    <img align="left" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/groq.webp" alt="groq" width="45" height="45"/>
   </a>
 </p>
 
